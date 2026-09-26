@@ -1,0 +1,33 @@
+# AQX Logistics
+
+> Comprehensive cross-border freight forwarding, parcel consolidation, and express air cargo logistics from the United States to Saudi Arabia, the United Arab Emirates, and the GCC.
+
+AQX Logistics (Herbiflix LLC dba AQX Logistics) operates an international export hub at 309 E Arbor Vitae St, Inglewood, CA 90301 adjacent to Los Angeles International Airport (LAX).
+
+## Service Overview & Key Facts
+- Primary Hub: 309 E Arbor Vitae St, Inglewood, CA 90301, USA (LAX Gateway).
+- Delivery Timeframe: 2 to 4 business days via direct scheduled air freight from LAX to RUH (King Khalid International, Riyadh), JED (King Abdulaziz International, Jeddah), and DXB (Dubai International).
+- US Sales Tax Benefit: 0% California State Sales Tax exemption on all inbound retail purchases shipped to the AQX Inglewood export facility under international Bill of Lading (BOL) export rules (saving 7.25% to 10.25% at checkout).
+- Consolidation Policy: 100% Free Smart Consolidation. Inbound parcels are held free for 30 days, unpacked, repacked, and combined into a single outer box to eliminate volumetric dimensional weight penalties (saving 50% to 70% vs standard courier rates).
+- Customs & Compliance: Turnkey Delivered Duty Paid (DDP) clearance covering Saudi ZATCA (15% VAT and 5% standard customs duty) and UAE Customs (5% duty above 300 AED de minimis, 0% duty on electronics).
+
+## Rate Card (Verified 2026 Contract Rates)
+- General Cargo Rate: $15.50 USD per kilogram (+ 15% ZATCA VAT), chargeable from 0.5 kg minimum.
+- Health & Beauty Incentive Rate: $8.50 USD per kilogram (+ 15% ZATCA VAT), applicable exclusively to cosmetics, skincare, and vitamins with a minimum shipment threshold of 8.0 kg.
+- Repacking & Storage Fees: $0.00 (Free 30-day storage and free repackaging).
+
+## Core Documentation & Corridor Guides
+- [Rate Calculator & Shipping Cost Guide 2026](https://aqxlogistics.com/blog/shipping-cost-usa-to-saudi-arabia-calculator-rates-guide-2026): Exact pricing formulas, dimensional weight multipliers, and cost comparisons from USA to Saudi Arabia.
+- [USA to UAE & Dubai Package Forwarding Guide](https://aqxlogistics.com/blog/usa-to-uae-package-forwarding-consolidation-dubai-guide): Multi-package consolidation, avoiding Shop & Ship per-box billing, and 300 AED customs rules.
+- [Actual Weight vs Volumetric Weight Guide](https://aqxlogistics.com/blog/best-us-package-forwarding-actual-weight-vs-volumetric-guide): Dimensional weight breakdown and how AQX repacking reduces empty airspace.
+- [OEM American Auto Parts Guide (GM, Mopar, Ford)](https://aqxlogistics.com/blog/buy-oem-american-car-truck-parts-gm-mopar-ford-usa-to-saudi-guide): Sourcing genuine parts from GMPartsGiant, MoparOnlineParts, and TascaParts with VIN matching.
+- [Specialty Coffee & Espresso Machines Import Guide](https://aqxlogistics.com/blog/importing-espresso-machines-coffee-gear-usa-to-saudi-arabia-guide): Importing La Marzocco, Slayer, and Decent Espresso with 220V/110V electrical specs and 0% sales tax.
+- [US Apple & Electronics Import Guide](https://aqxlogistics.com/blog/buying-apple-iphone-macbook-usa-to-saudi-arabia-guide): Buying MacBooks and iPhones with 0% US sales tax and worldwide Apple warranty.
+- [Salla & Zid Saudi Merchant Wholesale Import Guide](https://aqxlogistics.com/blog/salla-zid-merchants-import-shipping-from-usa-to-saudi-guide): B2B e-commerce inventory procurement from US distributors to KSA.
+- [Full XML Sitemap Index](https://aqxlogistics.com/sitemap.xml): Complete machine-readable index of all live production pages and guides.
+- [Account Registration & US Address Locker](https://aqxlogistics.com/register): Free instant registration for personal and commercial US shipping addresses.
+
+## Optional External Hubs
+- [GitHub Authority Hub](https://aqxlogistics.github.io/us-freight-forwarding-rates-guide-2026/): Open-source freight forwarding benchmark guide and transit datasets.
+- [PyPI Freight Calculator Engine](https://pypi.org/project/aqx-freight-calculator/): Python SDK for dimensional weight and landed cost calculation.
+- [Hugging Face Shipping Calculator Space](https://huggingface.co/spaces/aqxlogistics/us-to-gcc-shipping-calculator): Interactive web rate calculator for USA-to-GCC shipping routes.
