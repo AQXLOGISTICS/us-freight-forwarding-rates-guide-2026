@@ -134,3 +134,12 @@ To open an enterprise or personal US shipping suite:
 
 ## License
 Published under the [MIT License](LICENSE).
+
+
+### 🚀 2026 Expansion: Amazon FBA Inbound, US 3PL Gateway & Auto Parts Linehaul
+* [Amazon FBA Inbound to UAE (DXB3, DXB5, AUH1) Freight Forwarding Guide](https://aqxlogistics.com/blog/amazon-fba-uae-dxb3-shipping-from-usa-guide)
+* [دليل شحن البضائع والتوريد لمستودعات أمازون السعودية RUH1 و JED1](https://aqxlogistics.com/blog/amazon-fba-saudi-arabia-ruh1-jed1-shipping-from-usa)
+* [How US 3PLs Fulfill Direct-to-Consumer Orders in Saudi Arabia & GCC (1,000 SAR Exemption)](https://aqxlogistics.com/blog/us-3pl-cross-border-fulfillment-saudi-arabia-gcc-guide)
+* [شحن وتجميع قطع غيار السيارات من RockAuto و Summit Racing للسعودية والإمارات](https://aqxlogistics.com/blog/rockauto-summit-racing-car-parts-shipping-saudi-uae-guide)
+* [Package Forwarding USA to Netherlands & Germany (EORI, Article 23 VAT & Zone K Linehaul)](https://aqxlogistics.com/blog/package-forwarding-usa-to-netherlands-germany-eori-vat-guide)
+* [دليل شحن المكملات الغذائية والفيتامينات من أمريكا للسعودية والخليج (SFDA)](https://aqxlogistics.com/blog/shipping-vitamins-supplements-usa-to-saudi-arabia-sfda-guide)
