@@ -153,3 +153,4 @@ Published under the [MIT License](LICENSE).
 * [دليل شراء وشحن الآلات الموسيقية ومعدات استوديوهات الصوت من أمريكا للسعودية (Sweetwater 2026)](https://aqxlogistics.com/blog/buying-guitars-studio-audio-gear-sweetwater-usa-to-saudi-guide)
 * [دليل شراء وشحن مضارب وأدوات الجولف الفاخرة من أمريكا إلى السعودية والإمارات (2026)](https://aqxlogistics.com/blog/shipping-golf-clubs-bags-equipment-usa-to-saudi-uae-guide)
 * [دليل شراء وشحن قطع ومعدات القوارب واليخوت وأدوات الصيد البحري من أمريكا للسعودية والإمارات (2026)](https://aqxlogistics.com/blog/shipping-boat-marine-fishing-gear-usa-to-saudi-uae-guide)
+* [أفضل بديل لشركة MyUS في السعودية والإمارات (2026): مقارنة الأسعار، إلغاء الاشتراكات، والوزن الفعلي](https://aqxlogistics.com/blog/best-myus-alternative-saudi-arabia-uae-guide)
