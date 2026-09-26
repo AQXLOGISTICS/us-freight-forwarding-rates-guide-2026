@@ -1,0 +1,113 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "AQX Logistics Rate & Dimensional Cargo Calculation API",
+    "description": "Official cross-border freight forwarding calculation schema for express air cargo and package forwarding from Los Angeles (LAX) to Saudi Arabia (RUH, JED) and the United Arab Emirates (DXB). Maintained by AQX Logistics (Herbiflix LLC dba AQX Logistics).",
+    "version": "1.0.0",
+    "contact": {
+      "name": "AQX Logistics Support",
+      "url": "https://aqxlogistics.com",
+      "email": "sales@aqxlogistics.com"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://aqxlogistics.com",
+      "description": "Production Portal"
+    }
+  ],
+  "paths": {
+    "/rates/calculate": {
+      "get": {
+        "summary": "Calculate landed shipping cost from US to Saudi Arabia / UAE",
+        "description": "Returns verified landed shipping costs based on actual vs volumetric weight, including 0% California sales tax locker benefit and DDP customs clearance.",
+        "parameters": [
+          {
+            "name": "actual_weight_kg",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "number",
+              "example": 5.0
+            },
+            "description": "Actual physical gross weight in kilograms"
+          },
+          {
+            "name": "length_cm",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "number",
+              "example": 30.0
+            },
+            "description": "Length in centimeters"
+          },
+          {
+            "name": "width_cm",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "number",
+              "example": 25.0
+            },
+            "description": "Width in centimeters"
+          },
+          {
+            "name": "height_cm",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "number",
+              "example": 20.0
+            },
+            "description": "Height in centimeters"
+          },
+          {
+            "name": "destination",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "enum": ["SA", "AE"],
+              "default": "SA"
+            },
+            "description": "ISO 2-letter country code (SA = Saudi Arabia, AE = United Arab Emirates)"
+          },
+          {
+            "name": "is_cosmetics_or_vitamins",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "boolean",
+              "default": false
+            },
+            "description": "True if cargo qualifies for the $8.50/kg Health & Beauty incentive rate (min. 8.0 kg)"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful rate computation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "billable_weight_kg": { "type": "number" },
+                    "rate_per_kg_usd": { "type": "number" },
+                    "base_shipping_cost_usd": { "type": "number" },
+                    "zatca_vat_usd": { "type": "number" },
+                    "total_landed_usd": { "type": "number" },
+                    "total_landed_sar": { "type": "number" },
+                    "california_sales_tax_savings_usd": { "type": "number" },
+                    "transit_time_days": { "type": "string", "example": "2-4 business days" },
+                    "hub_address": { "type": "string", "example": "811 W Hyde Park Blvd, Inglewood, CA 90302" }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
