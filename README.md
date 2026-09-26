@@ -151,3 +151,4 @@ Published under the [MIT License](LICENSE).
 * [دليل استيراد وشحن مكائن الاسبريسو ومعدات القهوة المختصة من أمريكا إلى السعودية (2026)](https://aqxlogistics.com/blog/importing-espresso-machines-coffee-gear-usa-to-saudi-arabia-guide)
 * [دليل شراء وشحن قطع غيار السيارات والشاحنات الأمريكية الأصلية (GM, Mopar, Ford) من أمريكا للسعودية (2026)](https://aqxlogistics.com/blog/buy-oem-american-car-truck-parts-gm-mopar-ford-usa-to-saudi-guide)
 * [دليل شراء وشحن الآلات الموسيقية ومعدات استوديوهات الصوت من أمريكا للسعودية (Sweetwater 2026)](https://aqxlogistics.com/blog/buying-guitars-studio-audio-gear-sweetwater-usa-to-saudi-guide)
+* [دليل شراء وشحن مضارب وأدوات الجولف الفاخرة من أمريكا إلى السعودية والإمارات (2026)](https://aqxlogistics.com/blog/shipping-golf-clubs-bags-equipment-usa-to-saudi-uae-guide)
