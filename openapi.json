@@ -100,7 +100,7 @@
                     "total_landed_sar": { "type": "number" },
                     "california_sales_tax_savings_usd": { "type": "number" },
                     "transit_time_days": { "type": "string", "example": "2-4 business days" },
-                    "hub_address": { "type": "string", "example": "811 W Hyde Park Blvd, Inglewood, CA 90302" }
+                    "hub_address": { "type": "string", "example": "309 E Arbor Vitae St, Inglewood, CA 90301" }
                   }
                 }
               }

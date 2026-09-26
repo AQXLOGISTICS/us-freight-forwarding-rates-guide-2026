@@ -128,7 +128,7 @@ To open an enterprise or personal US shipping suite:
 * **Registration Portal:** [https://aqxlogistics.com/register](https://aqxlogistics.com/register)
 * **Company Website:** [https://aqxlogistics.com](https://aqxlogistics.com)
 * **API Documentation & Inquiries:** `sales@aqxlogistics.com` / `admin@aqxlogistics.com`
-* **Direct Logistics Hub:** Herbiflix LLC dba AQX Logistics, 811 W Hyde Park Blvd, Inglewood, CA 90302, USA.
+* **Direct Logistics Hub:** Herbiflix LLC dba AQX Logistics, 309 E Arbor Vitae St, Inglewood, CA 90301, USA.
 
 ---
 
