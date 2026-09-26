@@ -149,3 +149,4 @@ Published under the [MIT License](LICENSE).
 * [أفضل شركة شحن من أمريكا تحسب بالوزن الفعلي وتلغي الوزن الحجمي (2026): كيف تتفادى فخ الأبعاد؟](https://aqxlogistics.com/blog/best-us-package-forwarding-actual-weight-vs-volumetric-guide)
 * [USA to UAE Package Forwarding & Shopping Guide (2026): Why Free Consolidation Saves Up to 70% vs Shop & Ship](https://aqxlogistics.com/blog/usa-to-uae-package-forwarding-consolidation-dubai-guide)
 * [دليل استيراد وشحن مكائن الاسبريسو ومعدات القهوة المختصة من أمريكا إلى السعودية (2026)](https://aqxlogistics.com/blog/importing-espresso-machines-coffee-gear-usa-to-saudi-arabia-guide)
+* [دليل شراء وشحن قطع غيار السيارات والشاحنات الأمريكية الأصلية (GM, Mopar, Ford) من أمريكا للسعودية (2026)](https://aqxlogistics.com/blog/buy-oem-american-car-truck-parts-gm-mopar-ford-usa-to-saudi-guide)
