@@ -144,3 +144,4 @@ Published under the [MIT License](LICENSE).
 * [Package Forwarding USA to Netherlands & Germany (EORI, Article 23 VAT & Zone K Linehaul)](https://aqxlogistics.com/blog/package-forwarding-usa-to-netherlands-germany-eori-vat-guide)
 * [دليل شحن المكملات الغذائية والفيتامينات من أمريكا للسعودية والخليج (SFDA)](https://aqxlogistics.com/blog/shipping-vitamins-supplements-usa-to-saudi-arabia-sfda-guide)
 * [دليل تجار سلة وزد: استيراد وشحن البضائع والمنتجات الأمريكية إلى السعودية (2026)](https://aqxlogistics.com/blog/salla-zid-merchants-import-shipping-from-usa-to-saudi-guide)
+* [حاسبة وتكلفة وأسعار الشحن من أمريكا إلى السعودية (2026): دليل الأسعار، الوزن الحجمي، والجمارك بالتفصيل](https://aqxlogistics.com/blog/shipping-cost-usa-to-saudi-arabia-calculator-rates-guide-2026)
